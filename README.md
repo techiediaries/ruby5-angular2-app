@@ -5,7 +5,7 @@ Throughout this tutorial we are going to learn, with a practical CRUD example, h
 We are going to build, together and step by step, an Angular 2+ with a Rails 5.x back-end CRUD (Create Read Update and Delete) example application which demonstrates the essential concepts to integrate the two, client and server side, frameworks.
 
 
-Read the tutorial: [Getting Started with Ruby on Rails 5.1.4 and Angular 2+ (Currently Angular 4)](https://www.techiediaries.com/ruby-on-rails-5-angular-2/)
+
 
 Things we are going to cover:
 
